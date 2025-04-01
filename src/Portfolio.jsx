@@ -10,7 +10,7 @@ const Portfolio = () => {
           alt="Profile"
           className="w-32 h-32 rounded-full mx-auto border-4 border-gray-300"
         />
-        <h1 className="text-3xl font-bold mt-4">Your Name</h1>
+        <h1 className="text-3xl font-bold mt-4">Nouman Ansari</h1>
         <p className="text-gray-600">Frontend Developer | React Enthusiast</p>
         <p className="text-gray-700 mt-4">
           Passionate developer with a knack for creating beautiful and
